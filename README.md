@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Nzaki Michael
+
+- 🔭 I’m currently working on a TypeScript Based Project
+- 🌱 I’m currently learning Go (Golang)
 
 <!--
 **NzakiCodes/NzakiCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="middle">
+<!-- <p align="middle">
   <img width="600" src="https://github-profile-trophy.vercel.app/?username=NzakiCodes&rank=SS,S,AAA,AA,A,B,C&row=1&column=5"/>
-</p>
+</p> -->
 
 ---
 
