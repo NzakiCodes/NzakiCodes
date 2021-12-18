@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Nzaki Michael
 
-- 🔭 I’m currently working on a TypeScript Based Project
+<!-- - 🔭 I’m currently working on a TypeScript Based Project -->
 - 🌱 I’m currently learning Go (Golang)
 
 <!--
