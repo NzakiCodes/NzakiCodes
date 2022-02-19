@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="middle">
-  <img width="600" src="https://github-profile-trophy.vercel.app/?username=NzakiCodes&rank=SS,S,AAA,AA,A,B,C&row=1&column=5"/>
+  <img width="600" src="https://github-profile-trophy.vercel.app/?username=NzakiCodes&rank=SS,S,AAA,AA,A,B,C&row=1&column=5&theme=radical"/>
 </p>
 
 ---
