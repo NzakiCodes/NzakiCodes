@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Nzaki Michael
 
 <!-- - 🔭 I’m currently working on a TypeScript Based Project -->
-- 🌱 I’m currently learning Go (Golang)
+<!-- - 🌱 I’m currently learning Go (Golang) -->
 
 <!--
 **NzakiCodes/NzakiCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
