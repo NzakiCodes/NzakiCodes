@@ -2,6 +2,8 @@
 
 <!-- - 🔭 I’m currently working on a TypeScript Based Project -->
 <!-- - 🌱 I’m currently learning Go (Golang) -->
+- 💬 Ask me about React Js
+- 📫 How to reach me: Twitter: @NzakiCodes
 
 <!--
 **NzakiCodes/NzakiCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,14 +14,14 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about React Js
+- 📫 How to reach me: Twitter: @NzakiCodes
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <p align="middle">
+<p align="middle">
   <img width="600" src="https://github-profile-trophy.vercel.app/?username=NzakiCodes&rank=SS,S,AAA,AA,A,B,C&row=1&column=5"/>
-</p> -->
+</p>
 
 ---
 
