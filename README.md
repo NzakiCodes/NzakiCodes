@@ -1,7 +1,7 @@
-### Hi there 👋, I'm Nzaki Michael
+### Hi there 👋, I'm Ekikere-abasi Michael known as Nzaki The Wicked Developer.
 
-<!-- - 🔭 I’m currently working on a TypeScript Based Project -->
-<!-- - 🌱 I’m currently learning Go (Golang) -->
+- 🔭 I’m currently working on a TypeScript Based Project
+- 🌱 I’m currently learning Nest.js
 - 💬 Ask me about React Js
 - 📫 How to reach me: Twitter: @NzakiCodes
 
@@ -11,7 +11,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Nest.js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about React Js
