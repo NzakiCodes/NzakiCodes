@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Nest.js
 - 💬 Ask me about React Js
 - 📫 How to reach me: Twitter: [@NzakiCodes](https://twitter.com/NzakiCodes)
-- 😄 Pronouns: Who/Where
+- 😄 Pronouns: Who/Where/Who Dem Be?/Who Goes?
 
 <!--
 **NzakiCodes/NzakiCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
