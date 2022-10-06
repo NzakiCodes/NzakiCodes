@@ -6,6 +6,8 @@
 - 📫 How to reach me: Twitter: [@NzakiCodes](https://twitter.com/NzakiCodes)
 - 😄 Pronouns: Who/Where/Who Dem Be?/Who Goes?
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NzakiCodes)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **NzakiCodes/NzakiCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
