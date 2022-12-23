@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Ekikere-abasi Michael known as Nzaki The Wicked Developer.
 
-- 🔭 I’m currently working on a TypeScript Based Project
+- 🔭 I’m currently working on a React, Next.js and TypeScript Based Project
 - 🌱 I’m currently learning Nest.js
 - 💬 Ask me about React Js
 - 📫 How to reach me: Twitter: [@NzakiCodes](https://twitter.com/NzakiCodes)
-- 😄 Pronouns: Who/Where/Who Dem Be?/Who Goes?
+
 
 [![Nzaki's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NzakiCodes)](https://github-readme-stats.vercel.app/api/wakatime?username=NzakiCodes)
 <!--
@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about React Js
 - 📫 How to reach me: Twitter: [ @NzakiCodes](https://twitter.com/NzakiCodes)
 - 😄 Pronouns: Who/Where
+- 😄 Pronouns: Who/Where/Who Dem Be?/Who Goes?
 - ⚡ Fun fact: ...
 -->
 <p align="middle">
