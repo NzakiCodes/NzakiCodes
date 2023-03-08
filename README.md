@@ -25,15 +25,16 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NzakiCodes&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=NzakiCodes)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=NzakiCodes)](https://twitter.com/NzakiCodes)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<!--
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NzakiCodes&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
