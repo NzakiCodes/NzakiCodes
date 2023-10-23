@@ -2,7 +2,7 @@
 
 ### 💫 About Me:
 - Experienced software developer with expertise in web and mobile application development.
-- Skilled in Typescript, JavaScript, React, React Native, TailwindCSS, and Node.js.
+- Skilled in Typescript, JavaScript, React, NextJS, React Native, TailwindCSS, and Node.js.
 - Specializes in using these technologies to build robust, scalable, and responsive applications.
 - Expertise in Typescript for building complex applications.
 - Experienced in React for building modern, responsive UIs.
